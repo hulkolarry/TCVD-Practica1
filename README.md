@@ -9,3 +9,8 @@ Scripts Python:
 
 # DOI
 [![DOI](https://zenodo.org/badge/306145357.svg)](https://zenodo.org/badge/latestdoi/306145357)
+
+Autores:
+
+Alejandro Ruiz Plaza
+Ramón Cotillas Jiménez
